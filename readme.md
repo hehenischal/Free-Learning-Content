@@ -50,6 +50,12 @@ https://www.deakin.edu.au/study-online/free-online-courses
 
 An Australian university known for its lengthy experience in distance and online learning. There's heaps of free courses available from "learning culturally diverse teams in the workplace" to transforming digital learning.
 
+### Django-tutorial.dev
+
+https://django-tutorial.dev/
+
+A platform to Learn Django & Python Basics needed to get into Django. This platform is serves mainly for complete beginners that doesnt lead you to a "TUTORIAL HELL". They also Provide a platform to write Articles relating to Python and Django in General. they also have Affordable Online Verifyable Certificates. If you are trying to adopt django as your first framework, this is the place for you
+
 ### edX
 
 https://www.edx.org/
